@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "snowy-smoke-6a6c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9e5a09c2-fb2d-42dd-a172-0c4a8867de35",
+      "database_name": "blue-morning-6cbf-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
